@@ -1,0 +1,12 @@
+@font-face {
+	font-family : "MegaMan 2 Regular";
+	font-weight : normal;
+	font-style : normal;
+	src: local("MegaMan 2 Regular"), url("megaman_2.woff") format("woff");
+}
+
+h1 {
+	font-family: "MegaMan 2 Regular";
+	font-weight: 200;
+	color: #0ccac4;
+}
