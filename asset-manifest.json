@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robofoes/static/css/main.fb505a8d.chunk.css",
+    "main.js": "/robofoes/static/js/main.f5c54f17.chunk.js",
+    "main.js.map": "/robofoes/static/js/main.f5c54f17.chunk.js.map",
+    "runtime~main.js": "/robofoes/static/js/runtime~main.2fc2d11b.js",
+    "runtime~main.js.map": "/robofoes/static/js/runtime~main.2fc2d11b.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robofoes/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.6bd93c0c.chunk.js": "/robofoes/static/js/2.6bd93c0c.chunk.js",
+    "static/js/2.6bd93c0c.chunk.js.map": "/robofoes/static/js/2.6bd93c0c.chunk.js.map",
+    "index.html": "/robofoes/index.html",
+    "precache-manifest.97024a1adcb5b1bd3fb7bdfbfe801778.js": "/robofoes/precache-manifest.97024a1adcb5b1bd3fb7bdfbfe801778.js",
+    "service-worker.js": "/robofoes/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robofoes/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.fb505a8d.chunk.css.map": "/robofoes/static/css/main.fb505a8d.chunk.css.map",
+    "static/media/App.css": "/robofoes/static/media/megaman_2.a57a3c0c.woff"
+  }
+}
